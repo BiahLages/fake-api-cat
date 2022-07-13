@@ -2,15 +2,25 @@
   "tarefas": [
     {
       "descricao": "Ir ao mercado",
+      "feito": false,
+      "done": true,
       "id": "1"
     },
     {
       "descricao": "Lavar roupas",
+      "feito": false,
       "id": "2"
     },
     {
       "descricao": "Fazer projeto",
-      "id": "HZ0rtxe"
+      "feito": false,
+      "id": "jeZgka_"
+    },
+    {
+      "descricao": "finalizar esse inferno hj",
+      "feito": false,
+      "id": "ku6dFh1",
+      "done": true
     }
   ]
 }
