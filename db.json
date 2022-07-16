@@ -1,20 +1,27 @@
 {
   "tarefas": [
     {
-      "descricao": "Ir ao mercado",
+      "0": {
+        "descricao": "Ir ao mercado",
+        "feito": true,
+        "done": true,
+        "id": "1"
+      },
+      "1": {
+        "descricao": "Lavar roupas",
+        "feito": false,
+        "id": "2",
+        "done": true
+      },
+      "2": {
+        "descricao": "Fazer projeto",
+        "feito": false,
+        "id": "jeZgka_"
+      },
+      "descricao": "Ir ao mercadof",
       "feito": false,
       "done": true,
       "id": "1"
-    },
-    {
-      "descricao": "Lavar roupas",
-      "feito": false,
-      "id": "2"
-    },
-    {
-      "descricao": "Fazer projeto",
-      "feito": false,
-      "id": "jeZgka_"
     }
   ]
 }
