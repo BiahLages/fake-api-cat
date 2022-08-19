@@ -4,78 +4,71 @@
       "breed": "Persian",
       "description": "The Persian is the glamor puss of the cat world. His beautiful, flowing coat, sweet face and calm personality have combined to make him the most popular cat breed. He is high maintenance and he has some health issues, but for many his looks and personality overcome those drawbacks.",
       "image": "https://avatars.mds.yandex.net/get-pdb/223663/ad7a38b1-22a8-4f13-8c09-df3986afd0e2/s1200?webp=false",
-      "video": "<iframe width=560 height=315 src='https://www.youtube.com/embed/ZkEss3svhvs' title='YouTube video player' frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe>",
+      "video": "https://www.youtube.com/embed/ZkEss3svhvs",
       "id": "1"
     },
     {
-      "breed": "Siamese",
-      "description": "The sophisticated Siamese cat looks dressed for an elegant masquerade ball in pale evening wear with chic black accessories and tanzanite-blue eyes. Affectionate with family, this kitty loves to talk. If you have got a Siamese cat at home, prepare to have some lengthy conversations. Play time is also a must for the Siamese, so stock up on active toys that will help you exercise your kitty if you plan to bring one of these felines into your home. This will keep your cat healthy and let you spend quality time together, strengthening your bond.",
-      "image": "https://blog.petihtiyac.com/wp-content/uploads/2021/01/siyam1.png",
-      "video": "<iframe width=560 height=315 src='https://www.youtube.com/embed/-x0P2qILsA0' title='YouTube video player' frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe>",
-      "id": "2"
-    },
-    {
-      "breed": "Maine Coon",
-      "description": "Maine Coons are kittens in big cat suits, gentle giants who are playful well into old age, as well as jumbo-sized packages of loving devotion. Maine Coons can also be reserved around people with whom they are not familiar, probably due to their jumbo-sized brains. Given time, however, even the most cautious adapt. This initial adjustment period is actually a decision-making process; Maine Coons are deciding if these new humans have proven themselves worthy of trust. As soon as they make up their minds, however, they form close bonds with the entire household and become loving and devoted.",
-      "image": "https://vertihvostka.com/wp-content/uploads/2019/06/cf05840eb58565622200ead59091ba91.jpg",
-      "video": "<iframe width=560 height=315 src='https://www.youtube.com/embed/xKE2rRpxPSw' title='YouTube video player' frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe>",
-      "id": "3"
-    },
-    {
-      "breed": "Angora",
-      "description": "Beautiful and elegant on the surface, the Turkish Angora can surprise an unsuspecting owner with his athleticism and intelligence. No bookcase is too high for him to reach the top, and no closed door is safe from being opened by his questing paws. While he certainly can have lovely manners, the Turkey, as he is sometimes nicknamed, has an active, boisterous side to his nature, with a cleverness that makes him endlessly entertaining. He likes to play and will do whatever is necessary to get and keep your attention, even if it means getting into a little trouble.",
-      "image": "https://img.theepochtimes.com/assets/uploads/2016/04/25/917578_666281190180199_376146189_n.jpg",
-      "video": "<iframe width=560 height=315 src='https://www.youtube.com/embed/eGptT4AVt84' title='YouTube video player' frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe>",
-      "id": "4"
-    },
-    {
-      "breed": "Sphynx",
-      "description": "An extrovert type, the Sphynx is an energetic, highly intelligent, curious and affectionate cat, described by many as being almost dog-like in their friendliness to both family and strangers. They are extremely outgoing, crave attention and will want to be involved in everything you do, to the point of potentially being irritating and in the way – be prepared to be supervised and assisted in all matters around the home, from paperwork to DIY, cooking to taking a bath! The Sphynx is also unusual in that they are extremely gregarious and will enjoy the company of other animals, particularly other Sphynx cats – note that this does not mean they will entertain themselves, it means you will have several Sphynx cats supervising and assisting you at all times!",
-      "image": "https://res.cloudinary.com/fleetnation/image/private/c_fill,g_center,h_640,w_640/v1438075217/auynkgjp9sktqhjqfaf5.jpg",
-      "video": "<iframe width=560 height=315 src='https://www.youtube.com/embed/wGAK0EVdubo' title='YouTube video player' frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe>",
-      "id": "5"
-    },
-    {
-      "breed": "Ragdoll",
-      "description": "Unlike many cats, Ragdolls are notable for collapsing into the arms of anyone who holds them, even if they are cradled on their back. They love their people, greeting them at the door, following them around the house, and leaping into a lap or snuggling in bed whenever given the chance. They often learn to come when called or to retrieve toys that are thrown for them. Ragdolls have nice manners and are easy to live with. You will find a Ragdoll on your sofa or bed, but generally not much higher than that. He prefers to stay on the same level with his people rather than the highest point in a room.",
-      "image": "https://i.pinimg.com/736x/3d/75/06/3d7506c89b1c58ca5d207641a49f38f3.jpg",
-      "video": "<iframe width=560 height=315 src='https://www.youtube.com/embed/uHPt3Q2Twhg' title='YouTube video player' frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe>",
-      "id": "6"
-    },
-    {
-      "breed": "Ashera",
-      "description": "The Ashera cat is undoubtedly a very popular cat, either due to their slender and beautiful figure, their quiet and silent character or the exorbitant price of those who created them. Indeed, the Ashera cat is a feline developed in an American laboratory, a hybrid between different species. They enjoy letting other people stroke them and create strong bonds with their relatives, but at the same time this is a cat that can be left alone without any problem, they are not particularly attached. Offering regular interactions in your cat's kitten stage will be fundamental for your adult to be comfortable and used to us.",
-      "image": "https://i.pinimg.com/736x/cd/41/12/cd4112a425ad002e10ae47e87369b5a7.jpg",
-      "video": "<iframe width=560 height=315 src='https://www.youtube.com/embed/Gtgtpk8zjyk' title='YouTube video player' frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe>",
-      "id": "7"
-    },
-    {
-      "breed": "American Shorthair",
-      "description": "The American Shorthair is a very pleasant companion cat. She is easy going and placid. The American is a loving cat and will attach herself to all members of the family. While the American loves to play, she doesn't need hourly attention. If she is in the mood to play, she will bring her parent a toy. The American also plays well by herself. She is a very good companion for single people.",
-      "image": "https://pbs.twimg.com/media/DyK75V7WsAAumZq.jpg",
-      "video": "<iframe width=560 height=315 src='https://www.youtube.com/embed/wyCMS5_Kct4' title='YouTube video player' frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe>",
-      "id": "8"
-    },
-    {
-      "breed": "Chartreux",
-      "description": "Chartreux cats may have been invited in by monks to protect the monastery from rodents . Today, however, Chartreux cats are popular because they make terrific companions. Who can resist a cat that greets you with a mighty purr and an enigmatic smile? They are amiable, loyal, loving, and adaptable, and when you sit down next to your Chartreux, you invariably end up with an exquisitely soft lapful of adoring blue feline. Chartreux are the strong silent types of the cat fancy; they keep their comments to themselves, even when standing beside empty food dishes.",
-      "image": "https://res.cloudinary.com/fleetnation/image/private/c_fill,g_center,h_640,w_640/v1541503876/ccr2uzbamuepu9gwiog9.jpg",
-      "video": "<iframe width=560 height=315 src='https://www.youtube.com/embed/FCz_3L-vYro' title='YouTube video player'frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe>",
-      "id": "9"
-    },
-    {
-      "breed": "Munchkin",
-      "description": "For their part, Munchkins, oblivious to the controversy surrounding them, go on being just what they are—cats—self-assured and outgoing. Shortchanged in the leg department does not mean short on intelligence or personality. Friendly and people-oriented, Munchkins make devoted companions, and they get along well with other cats, dogs, and people. They love to wrestle and play with their long-legged feline friends, happily unaware that there is anything different about them. Nor do their feline companions treat them as members of the vertically challenged. It is only humans who look at them askance.",
-      "image": "https://i.pinimg.com/736x/3a/b8/ce/3ab8ce2aa3db692d2c1a7db9b9f7f4a1.jpg",
-      "video": "<iframe width=560 height=315 src='https://www.youtube.com/embed/w1OBCLH79Sc' title='YouTube video player'frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe>",
-      "id": "10"
-    },
-    {
-      "breed": "Morgana",
-      "description": "fasfaafs",
-      "image": "https://static.wikia.nocookie.net/megamitensei/images/0/08/Morgana_P5A.png",
-      "video": "fada",
-      "id": "cpLr8OA"
-    }
+        "breed": "Siamese",
+        "description": "The sophisticated Siamese cat looks dressed for an elegant masquerade ball in pale evening wear with chic black accessories and tanzanite-blue eyes. Affectionate with family, this kitty loves to talk. If you have got a Siamese cat at home, prepare to have some lengthy conversations. Play time is also a must for the Siamese, so stock up on active toys that will help you exercise your kitty if you plan to bring one of these felines into your home. This will keep your cat healthy and let you spend quality time together, strengthening your bond.",
+        "image": "https://blog.petihtiyac.com/wp-content/uploads/2021/01/siyam1.png",
+        "video": "https://www.youtube.com/embed/-x0P2qILsA0",
+        "id": "2"
+      },
+      {
+        "breed": "Maine Coon",
+        "description": "Maine Coons are kittens in big cat suits, gentle giants who are playful well into old age, as well as jumbo-sized packages of loving devotion. Maine Coons can also be reserved around people with whom they are not familiar, probably due to their jumbo-sized brains. Given time, however, even the most cautious adapt. This initial adjustment period is actually a decision-making process; Maine Coons are deciding if these new humans have proven themselves worthy of trust. As soon as they make up their minds, however, they form close bonds with the entire household and become loving and devoted.",
+        "image": "https://vertihvostka.com/wp-content/uploads/2019/06/cf05840eb58565622200ead59091ba91.jpg",
+        "video": "https://www.youtube.com/embed/xKE2rRpxPSw",
+        "id": "3"
+      },
+      {
+        "breed": "Angora",
+        "description": "Beautiful and elegant on the surface, the Turkish Angora can surprise an unsuspecting owner with his athleticism and intelligence. No bookcase is too high for him to reach the top, and no closed door is safe from being opened by his questing paws. While he certainly can have lovely manners, the Turkey, as he is sometimes nicknamed, has an active, boisterous side to his nature, with a cleverness that makes him endlessly entertaining. He likes to play and will do whatever is necessary to get and keep your attention, even if it means getting into a little trouble.",
+        "image": "https://img.theepochtimes.com/assets/uploads/2016/04/25/917578_666281190180199_376146189_n.jpg",
+        "video": "https://www.youtube.com/embed/eGptT4AVt84",
+        "id": "4"
+      },
+      {
+        "breed": "Sphynx",
+        "description": "An extrovert type, the Sphynx is an energetic, highly intelligent, curious and affectionate cat, described by many as being almost dog-like in their friendliness to both family and strangers. They are extremely outgoing, crave attention and will want to be involved in everything you do, to the point of potentially being irritating and in the way – be prepared to be supervised and assisted in all matters around the home, from paperwork to DIY, cooking to taking a bath! The Sphynx is also unusual in that they are extremely gregarious and will enjoy the company of other animals, particularly other Sphynx cats – note that this does not mean they will entertain themselves, it means you will have several Sphynx cats supervising and assisting you at all times!",
+        "image": "https://res.cloudinary.com/fleetnation/image/private/c_fill,g_center,h_640,w_640/v1438075217/auynkgjp9sktqhjqfaf5.jpg",
+        "video": "https://www.youtube.com/embed/wGAK0EVdubo",
+        "id": "5"
+      },
+      {
+        "breed": "Ragdoll",
+        "description": "Unlike many cats, Ragdolls are notable for collapsing into the arms of anyone who holds them, even if they are cradled on their back. They love their people, greeting them at the door, following them around the house, and leaping into a lap or snuggling in bed whenever given the chance. They often learn to come when called or to retrieve toys that are thrown for them. Ragdolls have nice manners and are easy to live with. You will find a Ragdoll on your sofa or bed, but generally not much higher than that. He prefers to stay on the same level with his people rather than the highest point in a room.",
+        "image": "https://i.pinimg.com/736x/3d/75/06/3d7506c89b1c58ca5d207641a49f38f3.jpg",
+        "video": "https://www.youtube.com/embed/uHPt3Q2Twhg",
+        "id": "6"
+      },
+      {
+        "breed": "Ashera",
+        "description": "The Ashera cat is undoubtedly a very popular cat, either due to their slender and beautiful figure, their quiet and silent character or the exorbitant price of those who created them. Indeed, the Ashera cat is a feline developed in an American laboratory, a hybrid between different species. They enjoy letting other people stroke them and create strong bonds with their relatives, but at the same time this is a cat that can be left alone without any problem, they are not particularly attached. Offering regular interactions in your cat's kitten stage will be fundamental for your adult to be comfortable and used to us.",
+        "image": "https://i.pinimg.com/736x/cd/41/12/cd4112a425ad002e10ae47e87369b5a7.jpg",
+        "video": "https://www.youtube.com/embed/Gtgtpk8zjyk",
+        "id": "7"
+      },
+      {
+        "breed": "American Shorthair",
+        "description": "The American Shorthair is a very pleasant companion cat. She is easy going and placid. The American is a loving cat and will attach herself to all members of the family. While the American loves to play, she doesn't need hourly attention. If she is in the mood to play, she will bring her parent a toy. The American also plays well by herself. She is a very good companion for single people.",
+        "image": "https://pbs.twimg.com/media/DyK75V7WsAAumZq.jpg",
+        "video": "https://www.youtube.com/embed/wyCMS5_Kct4",
+        "id": "8"
+      },
+      {
+        "breed": "Chartreux",
+        "description": "Chartreux cats may have been invited in by monks to protect the monastery from rodents . Today, however, Chartreux cats are popular because they make terrific companions. Who can resist a cat that greets you with a mighty purr and an enigmatic smile? They are amiable, loyal, loving, and adaptable, and when you sit down next to your Chartreux, you invariably end up with an exquisitely soft lapful of adoring blue feline. Chartreux are the strong silent types of the cat fancy; they keep their comments to themselves, even when standing beside empty food dishes.",
+        "image": "https://res.cloudinary.com/fleetnation/image/private/c_fill,g_center,h_640,w_640/v1541503876/ccr2uzbamuepu9gwiog9.jpg",
+        "video": "https://www.youtube.com/embed/FCz_3L-vYro",
+        "id": "9"
+      },
+      {
+        "breed": "Munchkin",
+        "description": "For their part, Munchkins, oblivious to the controversy surrounding them, go on being just what they are—cats—self-assured and outgoing. Shortchanged in the leg department does not mean short on intelligence or personality. Friendly and people-oriented, Munchkins make devoted companions, and they get along well with other cats, dogs, and people. They love to wrestle and play with their long-legged feline friends, happily unaware that there is anything different about them. Nor do their feline companions treat them as members of the vertically challenged. It is only humans who look at them askance.",
+        "image": "https://i.pinimg.com/736x/3a/b8/ce/3ab8ce2aa3db692d2c1a7db9b9f7f4a1.jpg",
+        "video": "https://www.youtube.com/embed/w1OBCLH79Sc",
+        "id": "10"
+      }
   ]
 }
